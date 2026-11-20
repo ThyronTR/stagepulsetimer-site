@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256"><defs><linearGradient id="b30" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#18213a"></stop><stop offset="1" stop-color="#070a12"></stop></linearGradient></defs>
+    <rect x="8" y="8" width="240" height="240" rx="56" fill="url(#b30)"></rect>
+    <rect x="8.5" y="8.5" width="239" height="239" rx="56" fill="none" stroke="rgba(255,255,255,.10)"></rect>
+    <g transform="translate(128 128) scale(0.82) translate(-128 -128)"><defs><linearGradient id="g31" gradientUnits="userSpaceOnUse" x1="214" y1="0" x2="42" y2="0">
+      <stop offset="0" stop-color="#34d17a"></stop><stop offset=".52" stop-color="#f5b82e"></stop><stop offset="1" stop-color="#ef4444"></stop></linearGradient></defs>
+    <circle cx="128" cy="128" r="84" fill="none" stroke="rgba(255,255,255,.10)" stroke-width="22"></circle>
+    <path d="M176.18 59.19 A84 84 0 1 1 79.82 59.19" fill="none" stroke="url(#g31)" stroke-width="22" stroke-linecap="round"></path>
+    <polyline points="68,134 88,134 98,119 108,134 119,134 135,72 153,184 167,134 176,134 184,124 190,134" fill="none" stroke="#ffffff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"></polyline>
+    <circle cx="79.82" cy="59.19" r="15.5" fill="#fff" stroke="#ef4444" stroke-width="6.5"></circle></g></svg>
